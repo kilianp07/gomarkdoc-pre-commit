@@ -1,0 +1,6 @@
+-   id: gomarkdoc
+    name: 'gomarkdoc'
+    entry: run-gormakdoc.sh
+    files: '\.go$'
+    language: 'script'
+    description: "Runs `gormakdoc`, requires golang"
