@@ -1,0 +1,1 @@
+# gomarkdoc-pre-commit
